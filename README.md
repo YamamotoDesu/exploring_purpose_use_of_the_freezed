@@ -1,4 +1,4 @@
-# exploring_purpose_use_of_the_freezed
+# [exploring_purpose_use_of_the_freezed](https://medium.com/@samra.sajjad0001/exploring-the-purpose-and-use-of-the-freezed-package-in-flutter-baec8d52a99f)
 
 ## Creating Models
 ```dart
